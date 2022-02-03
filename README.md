@@ -3,4 +3,8 @@ In this project, I performed unsupervised clustering. I did use dimensionality r
 
 Kaggle Notebook Link: https://www.kaggle.com/codoes/customer-personality-analysis
 
+For Running this file Please download it and run it on Jupyter Notebook or Open in Google Colab.
+
+Attach This DataSet file by Unzipping it in your Computer.
+
 
